@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ### Languages:
 | Python | C | C++ | PHP |
 |--------|----|----|----|
-| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) | ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg) | ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) | ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg) |
+| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) | ![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg) | ![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg) | ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg) |
 
 ### OS: ❤️ (Linux One Love)
 | Linux | Kali | Ubuntu | CentOS | Debian |
