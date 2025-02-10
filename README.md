@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ### OS:
 | Linux | Kali | Ubuntu | CentOS | Debian |
 |-------|------|--------|--------|--------|
-| ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg) | ![Kali](https://raw.githubusercontent.com/canaleal/devicon/574bbc63b185777b0b1a39240c5bb06d99cdb7e6/icons/kalilinux/kalilinux-original-wordmark.svg) | ![Ubuntu](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg) | ![CentOS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg) | ![Debian](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg) |
+| https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg | ![Kali](https://raw.githubusercontent.com/canaleal/devicon/574bbc63b185777b0b1a39240c5bb06d99cdb7e6/icons/kalilinux/kalilinux-original-wordmark.svg) | ![Ubuntu](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg) | ![CentOS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg) | ![Debian](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg) |
 
 ### Other:
 | Docker | VirtualBox | WordPress | Bash | VSCode |
