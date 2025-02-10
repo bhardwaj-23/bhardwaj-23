@@ -16,22 +16,20 @@ Here are some ideas to get you started:
 -->
 ## 🚀 Languages and Tools
 
-### **Languages**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-</p>
+### Languages:
+| Python | C | C++ | PHP |
+|--------|----|----|----|
+| ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) | ![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg) | ![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg) | ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg |
 
-### **Operating Systems**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" alt="Debian" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/centos/centos-original.svg" alt="CentOS" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Kali-dragon-icon.svg" alt="Kali Linux" width="50" height="50"/>
-</p>
+### OS: ❤️ (Linux One Love)
+| Linux | Kali | Ubuntu | CentOS | Debian |
+|-------|------|--------|--------|--------|
+| ![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg) | ![Kali](https://raw.githubusercontent.com/canaleal/devicon/574bbc63b185777b0b1a39240c5bb06d99cdb7e6/icons/kalilinux/kalilinux-original-wordmark.svg) | ![Ubuntu](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg) | ![CentOS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg) | ![Debian](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg) |
+
+### Other:
+| Docker | VirtualBox | WordPress | Bash | VSCode | MySQL |
+|--------|------------|-----------|------|--------|-------|
+| ![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) | ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white) | ![WordPress](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg) | ![Bash](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg) | ![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg) | ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) |
 
 ### **Other Tools**
 <p align="left">
